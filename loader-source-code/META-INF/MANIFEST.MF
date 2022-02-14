@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Main-Class: com.loader.burp.Main
+Premain-Class: com.loader.burp.Loader
