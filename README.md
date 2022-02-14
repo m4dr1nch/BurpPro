@@ -1,2 +1,2 @@
-# Its just BurpSuite Pro
-## A Clean install
+## BurpSuite Pro Loader
+### Installation
