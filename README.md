@@ -8,7 +8,7 @@ cd BurpSuite-2022/
 
 Run the loader and complete the process:
 ```bash
-./loader.jar
+java -jar loader.jar
 ```
 
 Once done you can create a binary launcher:
